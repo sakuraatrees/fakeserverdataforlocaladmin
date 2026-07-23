@@ -11,9 +11,9 @@
       "discord-id": "1340165954981724255"
     },
     {
-      "name": "kingofnetflix"
-      "user-id": "F1C6528FBE575142"
-      "discord-id": "1479765842131681350"
+      "name": "fakebuddy",
+      "user-id": "F1C6528FBE575142",
+      "discord-id": "1112502094918852628"
     },
     {
       "name": "smilk",
@@ -63,7 +63,8 @@
   ],
   "super-admins": [
     "kingofnetflix",
-    "Twig"
+    "Twig",
+    "fakebuddy"
   ],
   "april_fools": {
     "sex": false
